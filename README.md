@@ -2,7 +2,7 @@
 
 # Hi, I'm Sahil Dahale 👋
 
-Final-year B.Tech student in **Artificial Intelligence & Machine Learning** (CGPA 8.0/10, expected Jul 2027) at Sandip University, Nashik. I have hands-on internship experience in Python-based data analysis, EDA, and ML model development across classification, clustering, and business-dashboard projects, and I'm currently looking for a **Data Analyst / Data Science internship**.
+Aspiring **Data Analyst / Data Scientist** and final-year B.Tech student in **Artificial Intelligence & Machine Learning** (CGPA 8.0/10, expected Jul 2027) at Sandip University, Nashik. I have hands-on internship experience in Python-based data analysis, EDA, and ML model development across classification, clustering, and business-dashboard projects, and I'm currently looking for a **Data Analyst / Data Science internship**.
 
 - 💼 Currently a **Data Science Intern @ Oasis Infobyte** — building and evaluating classification/regression models with Scikit-learn
 - 🎓 Pursuing the Google Data Analytics and IBM Data Science Professional Certificates
