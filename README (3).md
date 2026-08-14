@@ -203,4 +203,4 @@ CGPA: 8.0 / 10
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on data & AI projects! 🚀</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer" />  
