@@ -8,7 +8,7 @@ Aspiring **Data Analyst / Data Scientist** and final-year B.Tech student in **Ar
 - 🎓 Pursuing the Google Data Analytics and IBM Data Science Professional Certificates
 - 🧑‍💼 Campus President at Sandip University, representing 500+ students
 - 🌱 Exploring Generative AI applications in analytics workflows
-- 📫 **sahildahale321@gmail.com** · [LinkedIn](https://linkedin.com/in/sahil-dahale) · [Portfolio](https://sahildahale01.github.io)
+- 📫 **sahildahale321@gmail.com** · [LinkedIn](https://www.linkedin.com/in/sahil-dahale-50aa42299/) · [Portfolio](https://sahildahale01.github.io)
 
 ---
 
@@ -89,6 +89,6 @@ Handled participant registration and event logistics for the 34th DIPEX Hackatho
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/sahil-dahale) · [Email](mailto:sahildahale321@gmail.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sahil-dahale-50aa42299/) · [Email](mailto:sahildahale321@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=100&section=footer)
